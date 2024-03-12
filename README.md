@@ -1,3 +1,6 @@
-# desafio-dio_sistema-bancario
-Desafio Dio - Sistema Bancário em Python
-# desafio-dio_sistema-bancario
+# Desafio - Sistema Bancário
+
+## Entendendo o Desafio
+
+Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema, devemos implementar apenas 3 operações: depósito, saque e extrato.
+
